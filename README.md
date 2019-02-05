@@ -1,5 +1,5 @@
 # Taboo
 - projetnik zadatak SSSS Tehmeha
-- team members: Ime Prezime
+- team members: Fran Benkus
 - programming language: C++
 - description: Opis
